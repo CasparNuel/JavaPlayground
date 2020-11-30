@@ -4,10 +4,10 @@ class MoonGravity {
 
         myEarthWeight = 55;
 
-        System.out.println("My weight on earth is " + myEarthWeight);
+        System.out.println("My weight on Earth is " + myEarthWeight);
 
         myMoonWeight = myEarthWeight * 0.17;
 
-        System.out.println("My weight on earth is " + myMoonWeight);
+        System.out.println("My weight on the Moon is " + myMoonWeight);
     }
 }
