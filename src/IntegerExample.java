@@ -5,8 +5,7 @@ in 1 cubic mile
 
 class Inches {
     public static void main (String args[]) {
-        long ci;
-        long im;
+        long ci, im;
 
         im = 5280 * 12;
 
