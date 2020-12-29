@@ -1,4 +1,4 @@
-class Hypot {
+class FloatingPointExample {
     public static void main (String args[]) {
         double x, y, z;
 

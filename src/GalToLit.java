@@ -1,4 +1,4 @@
-class GoToLit {
+class GalToLit {
     public static void main(String args[]) {
         double gallons;
         double liters;
